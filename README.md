@@ -34,7 +34,7 @@ Web Scraping, Data Cleaning, Pandas, Automation
 **Links:**
 
 * [View Notebook (nbviewer)](https://nbviewer.jupyter.org/github/ibanez1980/JuniorDataAnalystPortfolio/blob/main/1%29Amazon%20Web%20Scraper%20Projects/Scraping%20100%20Best%20Sellers/100%20Best%20Sellers.ipynb)
-* [View HTML Version](https://github.com/ibanez1980/JuniorDataAnalystPortfolio/blob/main/1%29Amazon%20Web%20Scraper%20Projects/Scraping%20100%20Best%20Sellers/100%20Best%20Sellers.html)
+*[View HTML Version](https://ibanez1980.github.io/JuniorDataAnalystPortfolio/1%29Amazon%20Web%20Scraper%20Projects/Scraping%20100%20Best%20Sellers/100%20Best%20Sellers.html)
 
 ---
 
@@ -55,7 +55,7 @@ API Integration, Data Analysis, Pandas, Visualization
 **Links:**
 
 * [View Notebook (nbviewer)](https://nbviewer.jupyter.org/github/ibanez1980/JuniorDataAnalystPortfolio/blob/main/2%29YouTube%20API/GM%20Hikaru%20Nakamura-YouTube%20Channel%20Analysis.ipynb)
-* [View HTML Version](https://github.com/ibanez1980/JuniorDataAnalystPortfolio/blob/main/2%29YouTube%20API/GM%20Hikaru%20Nakamura-YouTube%20Channel%20Analysis.html)
+* [View HTML Version](https://ibanez1980.github.io/JuniorDataAnalystPortfolio/2%29YouTube%20API/GM%20Hikaru%20Nakamura-YouTube%20Channel%20Analysis.html)
 
 ---
 
@@ -76,7 +76,7 @@ Data Analysis, Correlation Analysis, Pandas, Visualization
 **Links:**
 
 * [View Notebook (nbviewer)](https://nbviewer.org/github/ibanez1980/JuniorDataAnalystPortfolio/blob/main/3%29Movie%20Correlation%28Pandas%29/Movie%20Correlation%20Project.ipynb)
-* [View HTML Version](https://github.com/ibanez1980/JuniorDataAnalystPortfolio/blob/main/3%29Movie%20Correlation%28Pandas%29/Movie%20Correlation%20Project.html)
+* [View HTML Version](https://ibanez1980.github.io/JuniorDataAnalystPortfolio/3%29Movie%20Correlation%28Pandas%29/Movie%20Correlation%20Project.html)
 
 ---
 
@@ -133,4 +133,3 @@ I enjoy working with data, uncovering patterns, and presenting findings in a cle
 * Email: *mpotsivalischristos@outlook.com*
 
 ---
-
