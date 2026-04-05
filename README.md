@@ -129,8 +129,8 @@ I enjoy working with data, uncovering patterns, and presenting findings in a cle
 
 ## 📬 Contact
 
-* LinkedIn: *(https://www.linkedin.com/in/christos-mpotsivalis-4947b4137/)*
-* Email: *(mpotsivalischristos@outlook.com)*
+* LinkedIn: *https://www.linkedin.com/in/christos-mpotsivalis-4947b4137/*
+* Email: *mpotsivalischristos@outlook.com*
 
 ---
 
