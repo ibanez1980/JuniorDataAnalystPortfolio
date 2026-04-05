@@ -34,7 +34,7 @@ Web Scraping, Data Cleaning, Pandas, Automation
 **Links:**
 
 * [View Notebook (nbviewer)](https://nbviewer.jupyter.org/github/ibanez1980/JuniorDataAnalystPortfolio/blob/main/1%29Amazon%20Web%20Scraper%20Projects/Scraping%20100%20Best%20Sellers/100%20Best%20Sellers.ipynb)
-*[View HTML Version](https://ibanez1980.github.io/JuniorDataAnalystPortfolio/1%29Amazon%20Web%20Scraper%20Projects/Scraping%20100%20Best%20Sellers/100%20Best%20Sellers.html)
+* [View HTML Version](https://ibanez1980.github.io/JuniorDataAnalystPortfolio/1%29Amazon%20Web%20Scraper%20Projects/Scraping%20100%20Best%20Sellers/100%20Best%20Sellers.html)
 
 ---
 
